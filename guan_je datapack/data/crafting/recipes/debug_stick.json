@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#/L",
+        "#/L",
+        "#UL"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:redstone_block"
+        },
+        "/": {
+            "item": "minecraft:blaze_rod"
+        },
+        "L": {
+            "item": "minecraft:lapis_block"
+        },
+        "U": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "minecraft:debug_stick",
+        "count": 1
+    }
+}
